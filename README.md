@@ -1,6 +1,6 @@
 <!-- ============================================================== -->
 <!--  GITHUB PROFILE README  ->  github.com/mavispatrick           -->
-<!--  Sections marked TODO need your personal details.              -->
+<!--  Personal details updated. LinkedIn line is commented out for now. -->
 <!-- ============================================================== -->
 
 <div align="center">
@@ -26,7 +26,7 @@
 - Learning **Deep Learning, MLOps & Cloud**
 - Open to collaborating on **open-source data projects**
 - Ask me about **Python, Pandas, NumPy, scikit-learn, SQL**
-- Reach me: **your.email@example.com** <!-- TODO: your real email -->
+- Reach me: **[mavispatrickgarth@gmail.com](mailto:mavispatrickgarth@gmail.com)**
 - Fun fact: **I turn coffee into charts and dashboards**
 
 <br clear="right"/>
@@ -122,11 +122,12 @@
 
 <div align="center">
 
-<!-- TODO: replace your-username / your.email@example.com with your real profiles -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-username)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-username)
+<!-- Add only the profiles you actually use. Uncomment and edit the LinkedIn line below when you have one. -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mavispatrickgarth@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mavispatrick)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mavispatrick)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mavispatrick)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_HANDLE) -->
 
 </div>
 
@@ -141,8 +142,8 @@
 <!--
 =============================================================
  Tips for you:
- 1. Edit "About Me" bullets and the Connect links (search for TODO).
- 2. Add real project cards below "My Contributions".
+ 1. Edit the "About Me" bullets to reflect what you are working on.
+ 2. Add real project cards and pin your best repos.
  3. The snake animation updates daily via the GitHub Action.
 =============================================================
 -->
